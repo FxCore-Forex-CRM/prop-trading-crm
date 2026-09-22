@@ -19,6 +19,7 @@ What makes prop trading firm CRM requirements different from standard forex brok
 ## Related
 
 https://fxcorecrm.com
+https://fxcorecrm.com/blogs/ib-commission-disputes-trade-level-traceability-2026
 
 # FxCoreCRM – Best Forex CRM for MT5 Brokers
 🌐 Website: https://fxcorecrm.com
